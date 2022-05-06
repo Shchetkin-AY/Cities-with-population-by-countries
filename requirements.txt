@@ -1,0 +1,12 @@
+bootstrap4==0.1.0
+Django==4.0.4
+django-crispy-forms==1.14.0
+django-filter==21.1
+flake8==4.0.1
+mccabe==0.6.1
+oauthlib==3.2.0
+pycodestyle==2.8.0
+pyflakes==2.4.0
+PyMySQL==1.0.2
+sqlparse==0.4.2
+tzdata==2022.1
